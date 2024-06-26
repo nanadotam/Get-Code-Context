@@ -4,7 +4,7 @@ Welcome to the Java Project Code Context Script repository! This project is desi
 
 ## About This Project
 
-Inspired by CleverProgrammer's original script for Next.js projects, this script has been adapted to work seamlessly with Java projects. Whether you're a student, a developer, or just someone interested in organizing your code better, this tool is here to help.
+Inspired by CleverProgrammer's original script for Next.js projects, this script has been adapted to work seamlessly with Java projects. 
 
 ### Original Inspiration
 
