@@ -1,6 +1,6 @@
 # Java Project Code Context Script
 
-Welcome to the Java Project Code Context Script repository! This project is designed to help you generate a comprehensive context of your Java project's files, making it easier to navigate and understand your codebase.
+Welcome to the Java Project Code Context Script repository! This project is designed to help you generate a comprehensive context of your Java project's files, making it easier to navigate and understand your codebase and, more importantly, copy into ChatGPT or any AI tool of your choice to get code fixes and improvements!
 
 ## About This Project
 
