@@ -36,17 +36,9 @@ The script will create a `code_context.txt` file in the root directory of your p
 
 This repository will also host Python versions of the script, providing similar functionality for Python projects. Stay tuned for updates!
 
-## Why GitHub Gist?
-
-The original creator added the script to their GitHub gist, which is a simple way to share code snippets and scripts. GitHub repositories, on the other hand, offer more features like issue tracking, pull requests, and the ability to manage larger projects. Depending on your needs, you might prefer a repository for full projects and gists for smaller snippets or single-file scripts.
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request. If you encounter any issues or have suggestions, please open an issue on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
