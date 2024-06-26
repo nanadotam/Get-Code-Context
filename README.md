@@ -2,7 +2,7 @@
 
 Ever needed code from ChatGPT, but it didn't have your code, so it had no context for what you were saying and was providing the wrong code? And you were too lazy to drag and drop all your code into ChatGPT because that's just a long task, and sometimes ChatGPT can't read some parts of the code? Or maybe you don't have access to GPT-4 to even drag and drop in the first place. Well, look no further!
 
-This project is designed to help you generate a comprehensive context of your project's files, making it easier to navigate and understand your codebase and, more importantly, copy into ChatGPT or any AI tool of your choice to get code fixes and improvements! The supported files are Python and Java, given that they're my most used languages. More to come later.
+This project is designed to help you generate a comprehensive context of your project's files, making it easier to navigate and understand your codebase and, **more importantly, copy into ChatGPT or any AI tool** of your choice to get code fixes and improvements! The supported files are Python and Java, given that they're my most used languages. More to come later.
 
 ## About This Project
 
