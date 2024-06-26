@@ -30,6 +30,7 @@ Follow these simple steps to get the script running on your machine:
     ```bash
     ./get_code_context_java.sh
     ```
+The script will create a `code_context.txt` file in the root directory of your project, containing the relative paths and contents of your Java files, excluding specified file types.
 
 ### Python Projects
 
@@ -48,8 +49,7 @@ Follow these simple steps to get the script running on your machine:
     ```bash
     ./get_code_context_python.sh
     ```
-
-The script will create a `code_context.txt` file in the root directory of your project, containing the relative paths and contents of your Java files, excluding specified file types.
+The script will create a `code_context.txt` file in the root directory of your project, containing the relative paths and contents of your Python files and Jupyter notebooks, excluding specified file types.
 
 ## Future Plans
 
