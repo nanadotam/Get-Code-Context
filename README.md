@@ -17,8 +17,8 @@ Follow these simple steps to get the script running on your machine:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/Project-Code-Context-Script.git
-    cd Project-Code-Context-Script
+    git clone https://github.com/nanadotam/Get-Code-Context.git
+    cd Get-Code-Context.git
     ```
 
 2. **Make the Script Executable**
@@ -35,8 +35,8 @@ Follow these simple steps to get the script running on your machine:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/Project-Code-Context-Script.git
-    cd Project-Code-Context-Script
+    git clone https://github.com/nanadotam/Get-Code-Context.git
+    cd Get-Code-Context.git
     ```
 
 2. **Make the Script Executable**
