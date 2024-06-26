@@ -1,10 +1,12 @@
 # Code Context Script
 
-This project is designed to help you generate a comprehensive context of your project's files, making it easier to navigate and understand your codebase and, more importantly, copy into ChatGPT or any AI tool of your choice to get code fixes and improvements! For now, the supported files are Python and Java files, given that they're my most used languages. More to come later.
+Ever needed code from ChatGPT, but it didn't have your code, so it had no context for what you were saying and was providing the wrong code? And you were too lazy to drag and drop all your code into ChatGPT because that's just a long project, and sometimes ChatGPT can't read some parts of the code? Or maybe you don't have access to GPT-4 to even drag and drop in the first place. Well, look no further!
+
+This project is designed to help you generate a comprehensive context of your project's files, making it easier to navigate and understand your codebase and, more importantly, copy into ChatGPT or any AI tool of your choice to get code fixes and improvements! The supported files are Python and Java, given that they're my most used languages. More to come later.
 
 ## About This Project
 
-Inspired by CleverProgrammer's original script for Next.js projects, this script has been adapted to work seamlessly with Java projects. 
+Inspired by CleverProgrammer's original script for Next.js projects, this script has been adapted to work seamlessly with both Java and Python projects.
 
 ### Original Inspiration
 
@@ -13,12 +15,13 @@ A big shoutout to [CleverProgrammer](https://github.com/CleverProgrammer) for th
 ## How to Use This Script
 
 Follow these simple steps to get the script running on your machine:
+
 ### Java Projects
 
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/nanadotam/Get-Code-Context.git
-    cd Get-Code-Context.git
+    cd Get-Code-Context
     ```
 
 2. **Make the Script Executable**
@@ -30,6 +33,7 @@ Follow these simple steps to get the script running on your machine:
     ```bash
     ./get_code_context_java.sh
     ```
+
 The script will create a `code_context.txt` file in the root directory of your project, containing the relative paths and contents of your Java files, excluding specified file types.
 
 ### Python Projects
@@ -37,7 +41,7 @@ The script will create a `code_context.txt` file in the root directory of your p
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/nanadotam/Get-Code-Context.git
-    cd Get-Code-Context.git
+    cd Get-Code-Context
     ```
 
 2. **Make the Script Executable**
@@ -49,6 +53,7 @@ The script will create a `code_context.txt` file in the root directory of your p
     ```bash
     ./get_code_context_python.sh
     ```
+
 The script will create a `code_context.txt` file in the root directory of your project, containing the relative paths and contents of your Python files and Jupyter notebooks, excluding specified file types.
 
 ## Future Plans
@@ -61,5 +66,4 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 ---
 
-Thank you for checking out this project! We hope it helps you manage and navigate your Java projects more effectively. Happy coding!
-
+Thank you for checking out this project! We hope it helps you manage and navigate your Java and Python projects more effectively. Happy coding!
