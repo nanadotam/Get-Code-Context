@@ -31,7 +31,7 @@ Follow these simple steps to get the script running on your machine:
     ./get_code_context_java.sh
     ```
 
-    ### Python Projects
+### Python Projects
 
 1. **Clone the Repository**
     ```bash
