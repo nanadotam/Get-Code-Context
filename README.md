@@ -64,6 +64,3 @@ This repository will continue to evolve with additional scripts and functionalit
 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request. If you encounter any issues or have suggestions, please open an issue on GitHub.
 
----
-
-Thank you for checking out this project! We hope it helps you manage and navigate your Java and Python projects more effectively. Happy coding!
